@@ -29,7 +29,7 @@ function App() {
     <div id="main">
       <button>Reverse</button>
       <table>
-        <tbody>
+        <tbody> table
         </tbody>
       </table>
     </div>
